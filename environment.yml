@@ -1,0 +1,9 @@
+name: data_analysis
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - notebook
+  - numpy
