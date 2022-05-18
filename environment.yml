@@ -7,3 +7,6 @@ dependencies:
   - matplotlib
   - notebook
   - numpy
+  - wordcloud
+  - tweepy
+  - textblob
